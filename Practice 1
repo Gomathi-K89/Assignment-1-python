@@ -1,0 +1,18 @@
+#Task 1
+a = int(input("Enter the First Number : "))
+b = int(input("Enter the First Number : "))
+c = a+b
+d = a-b
+e = a*b
+f = a/b
+print("Addition : ", c)
+print("Subtraction : ", d)
+print("Multiplication : ", e)
+print("Division : ", f)
+
+##Task 2
+
+s1 = input("Enter the First Name : ")
+s2 = input("Enter the Second Name : ")
+s = s1 + " " + s2
+print("Hello,", s,"!", "Welcome to Python Program")
